@@ -11,5 +11,5 @@
 ## Brandboard
 
 <p align="center">
-  <img src="frame.png" alt="Конструктор РПД">
+  <img src="Frame.png" alt="Конструктор РПД">
 </p>
